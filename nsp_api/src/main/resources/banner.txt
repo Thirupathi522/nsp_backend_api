@@ -1,0 +1,5 @@
+--------------------------------------------------------------------------
+Application Name : ${spring.application.name}
+Application Version : ${Nps_Version}
+Application Formatted Version : ${Nps_Version}
+--------------------------------------------------------------------------
